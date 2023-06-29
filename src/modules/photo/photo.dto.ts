@@ -1,4 +1,4 @@
-export class Photo {
+export class PhotoDTO {
   id: number;
 
   name: string;
